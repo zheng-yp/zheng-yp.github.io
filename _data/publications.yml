@@ -1,0 +1,24 @@
+main:
+
+  - title: A Survey of Dynamic Graph Neural Networks
+    authors: <strong>Yanping Zheng</strong>, Lu Yi, Zhewei Wei
+    conference_short: FCS
+    conference: Frontiers of Computer Science <strong>(FCS)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2404.18211.pdf
+    bibtex: https://journal.hep.com.cn/fcs/EN/article/getTxtFile.do?fileType=BibTeX&id=37965
+
+  - title: Decoupled Graph Neural Networks for Large Dynamic Graphs
+    authors: <strong>Yanping Zheng</strong>, Zhewei Wei, Jiajun Liu
+    conference_short: VLDB
+    conference: Very Large Data Base Endowment <strong>(VLDB)</strong>, 2023.
+    pdf: https://arxiv.org/pdf/2305.08273.pdf
+    code: https://github.com/zheng-yp/DecoupledDGNN
+    bibtex: https://dl.acm.org/doi/abs/10.14778/3598581.3598595
+
+  - title: Instant Graph Neural Networks for Dynamic Graphs
+    authors: <strong>Yanping Zheng</strong>, Hanzhi Wang, Zhewei Wei, Jiajun Liu, Sibo Wang
+    conference_short: KDD
+    conference: ACM SIGKDD Conference on Knowledge Discovery and Data Mining <strong>(KDD)</strong>, 2022.
+    pdf: https://arxiv.org/pdf/2206.01379.pdf
+    code: https://github.com/zheng-yp/InstantGNN
+    bibtex: https://dl.acm.org/doi/abs/10.1145/3534678.3539352
